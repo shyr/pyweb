@@ -1,1 +1,1 @@
-### Sample python web application with flask
+### Sample python web application with flask and Redis
